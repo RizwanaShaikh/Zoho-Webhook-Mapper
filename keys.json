@@ -1,0 +1,1698 @@
+[
+  {
+    "parameter_name": "Property Type",
+    "zoho_label": "Property Type",
+    "property_types": [
+      "residential",
+      "multi_family",
+      "land"
+    ],
+    "section": "Standard"
+  },
+  {
+    "parameter_name": "Address",
+    "zoho_label": "Address",
+    "property_types": [
+      "residential",
+      "multi_family",
+      "land"
+    ],
+    "section": "Standard"
+  },
+  {
+    "parameter_name": "General_Information_Unit_Number",
+    "zoho_label": "Unit Number",
+    "property_types": [
+      "residential",
+      "multi_family",
+      "land"
+    ],
+    "section": "General Information"
+  },
+  {
+    "parameter_name": "General_Information_Town",
+    "zoho_label": "Town",
+    "property_types": [
+      "residential",
+      "multi_family",
+      "land"
+    ],
+    "section": "General Information"
+  },
+  {
+    "parameter_name": "General_Information_County",
+    "zoho_label": "County",
+    "property_types": [
+      "residential",
+      "multi_family",
+      "land"
+    ],
+    "section": "General Information"
+  },
+  {
+    "parameter_name": "General_Information_List_Price",
+    "zoho_label": "List Price",
+    "property_types": [
+      "residential",
+      "multi_family",
+      "land"
+    ],
+    "section": "General Information"
+  },
+  {
+    "parameter_name": "General_Information_Listing_Date",
+    "zoho_label": "Listing Date",
+    "property_types": [
+      "residential",
+      "multi_family",
+      "land"
+    ],
+    "section": "General Information"
+  },
+  {
+    "parameter_name": "General_Information_Listing_Term",
+    "zoho_label": "Listing Term",
+    "property_types": [
+      "residential",
+      "multi_family",
+      "land"
+    ],
+    "section": "General Information"
+  },
+  {
+    "parameter_name": "General_Information_Plan_End_Date",
+    "zoho_label": "Plan End Date",
+    "property_types": [
+      "residential",
+      "multi_family",
+      "land"
+    ],
+    "section": "General Information"
+  },
+  {
+    "parameter_name": "General_Information_Subject_To",
+    "zoho_label": "Subject To",
+    "property_types": [
+      "residential",
+      "multi_family",
+      "land"
+    ],
+    "section": "General Information"
+  },
+  {
+    "parameter_name": "General_Information_Home_Type",
+    "zoho_label": "Home Type",
+    "property_types": [
+      "residential"
+    ],
+    "section": "General Information"
+  },
+  {
+    "parameter_name": "General_Information_Multi_Family_Sub_Type",
+    "zoho_label": "Multi-Family Sub-Type",
+    "property_types": [
+      "multi_family"
+    ],
+    "section": "General Information"
+  },
+  {
+    "parameter_name": "General_Information_Land_Sub_Type",
+    "zoho_label": "Land Sub-Type",
+    "property_types": [
+      "land"
+    ],
+    "section": "General Information"
+  },
+  {
+    "parameter_name": "General_Information_Parcel_ID",
+    "zoho_label": "Parcel ID",
+    "property_types": [
+      "residential",
+      "multi_family",
+      "land"
+    ],
+    "section": "General Information"
+  },
+  {
+    "parameter_name": "General_Information_Lot",
+    "zoho_label": "Lot",
+    "property_types": [
+      "residential",
+      "multi_family",
+      "land"
+    ],
+    "section": "General Information"
+  },
+  {
+    "parameter_name": "General_Information_Block",
+    "zoho_label": "Block",
+    "property_types": [
+      "residential",
+      "multi_family",
+      "land"
+    ],
+    "section": "General Information"
+  },
+  {
+    "parameter_name": "General_Information_Apx_Heated_SqFt",
+    "zoho_label": "Approx Heated Sqft",
+    "property_types": [
+      "residential",
+      "multi_family"
+    ],
+    "section": "General Information"
+  },
+  {
+    "parameter_name": "General_Information_SqFt_Source",
+    "zoho_label": "Square Feet Source",
+    "property_types": [
+      "residential",
+      "multi_family"
+    ],
+    "section": "General Information"
+  },
+  {
+    "parameter_name": "General_Information_Apx_Year_Built",
+    "zoho_label": "Year Built",
+    "property_types": [
+      "residential",
+      "multi_family"
+    ],
+    "section": "General Information"
+  },
+  {
+    "parameter_name": "General_Information_Age_Desc",
+    "zoho_label": "Age Description",
+    "property_types": [
+      "residential",
+      "multi_family"
+    ],
+    "section": "General Information"
+  },
+  {
+    "parameter_name": "General_Information_New_Construction_YN",
+    "zoho_label": "New Construction",
+    "property_types": [
+      "residential",
+      "multi_family"
+    ],
+    "section": "General Information"
+  },
+  {
+    "parameter_name": "General_Information_Apx_Completion_Date",
+    "zoho_label": "Approximate Completion Date",
+    "property_types": [
+      "residential",
+      "multi_family"
+    ],
+    "section": "General Information"
+  },
+  {
+    "parameter_name": "General_Information_Acres",
+    "zoho_label": "Acres",
+    "property_types": [
+      "residential",
+      "multi_family",
+      "land"
+    ],
+    "section": "General Information"
+  },
+  {
+    "parameter_name": "General_Information_Lot_Dimensions",
+    "zoho_label": "Lot Dimensions",
+    "property_types": [
+      "residential",
+      "multi_family",
+      "land"
+    ],
+    "section": "General Information"
+  },
+  {
+    "parameter_name": "General_Information_Taxes_Amount",
+    "zoho_label": "Taxes Amount",
+    "property_types": [
+      "residential",
+      "multi_family",
+      "land"
+    ],
+    "section": "General Information"
+  },
+  {
+    "parameter_name": "General_Information_Deed_Rest_Covenant_YN",
+    "zoho_label": "Deed Rest/Covenant",
+    "property_types": [
+      "residential",
+      "multi_family",
+      "land"
+    ],
+    "section": "General Information"
+  },
+  {
+    "parameter_name": "General_Information_Legal",
+    "zoho_label": "Legal",
+    "property_types": [
+      "residential",
+      "multi_family",
+      "land"
+    ],
+    "section": "General Information"
+  },
+  {
+    "parameter_name": "General_Information_Zoning",
+    "zoho_label": "Zoning",
+    "property_types": [
+      "residential",
+      "multi_family",
+      "land"
+    ],
+    "section": "General Information"
+  },
+  {
+    "parameter_name": "General_Information_Subdivision",
+    "zoho_label": "Subdivision",
+    "property_types": [
+      "residential",
+      "multi_family",
+      "land"
+    ],
+    "section": "General Information"
+  },
+  {
+    "parameter_name": "General_Information_Seller_Disclosure_YN",
+    "zoho_label": "Seller Disclosure",
+    "property_types": [
+      "residential",
+      "multi_family",
+      "land"
+    ],
+    "section": "General Information"
+  },
+  {
+    "parameter_name": "General_Information_Financing_Available",
+    "zoho_label": "Financing Available",
+    "property_types": [
+      "residential",
+      "multi_family",
+      "land"
+    ],
+    "section": "General Information"
+  },
+  {
+    "parameter_name": "General_Information_Additional_Sub_Type",
+    "zoho_label": "Additional Sub Type",
+    "property_types": [
+      "land"
+    ],
+    "section": "General Information"
+  },
+  {
+    "parameter_name": "General_Information_For_Rent",
+    "zoho_label": "For Rent",
+    "property_types": [
+      "multi_family"
+    ],
+    "section": "General Information"
+  },
+  {
+    "parameter_name": "General_Information_Total_Units",
+    "zoho_label": "Total Units",
+    "property_types": [
+      "multi_family"
+    ],
+    "section": "General Information"
+  },
+  {
+    "parameter_name": "Brokerage_Information_Agency_Listing_Type",
+    "zoho_label": "Agency/Listing Type",
+    "property_types": [
+      "residential",
+      "multi_family",
+      "land"
+    ],
+    "section": "Brokerage Information"
+  },
+  {
+    "parameter_name": "Brokerage_Information_Showing_Instructions",
+    "zoho_label": "Showing Instructions",
+    "property_types": [
+      "residential",
+      "multi_family",
+      "land"
+    ],
+    "section": "Brokerage Information"
+  },
+  {
+    "parameter_name": "Brokerage_Information_Exempted_Name_Prospects",
+    "zoho_label": "Exempted Name Prospects",
+    "property_types": [
+      "residential",
+      "multi_family",
+      "land"
+    ],
+    "section": "Brokerage Information"
+  },
+  {
+    "parameter_name": "Brokerage_Information_Allow_Address_Display",
+    "zoho_label": "Allow Address Display",
+    "property_types": [
+      "residential",
+      "multi_family",
+      "land"
+    ],
+    "section": "Brokerage Information"
+  },
+  {
+    "parameter_name": "Brokerage_Information_Internet_OK",
+    "zoho_label": "Internet OK",
+    "property_types": [
+      "residential",
+      "multi_family",
+      "land"
+    ],
+    "section": "Brokerage Information"
+  },
+  {
+    "parameter_name": "Brokerage_Information_Allow_VOW",
+    "zoho_label": "Allow Virtual Office Website",
+    "property_types": [
+      "residential",
+      "multi_family",
+      "land"
+    ],
+    "section": "Brokerage Information"
+  },
+  {
+    "parameter_name": "Brokerage_Information_Allow_Blogging",
+    "zoho_label": "Allow Blogging",
+    "property_types": [
+      "residential",
+      "multi_family",
+      "land"
+    ],
+    "section": "Brokerage Information"
+  },
+  {
+    "parameter_name": "Brokerage_Information_Allow_Auto_Valuation",
+    "zoho_label": "Allow Auto Valuation",
+    "property_types": [
+      "residential",
+      "multi_family",
+      "land"
+    ],
+    "section": "Brokerage Information"
+  },
+  {
+    "parameter_name": "Property_Information_Location",
+    "zoho_label": "Location",
+    "property_types": [
+      "land"
+    ],
+    "section": "Property Information"
+  },
+  {
+    "parameter_name": "Property_Information_Description",
+    "zoho_label": "Description",
+    "property_types": [
+      "land"
+    ],
+    "section": "Property Information"
+  },
+  {
+    "parameter_name": "Property_Information_Parking_YN",
+    "zoho_label": "Parking Y/N",
+    "property_types": [
+      "multi_family",
+      "land"
+    ],
+    "section": "Property Information"
+  },
+  {
+    "parameter_name": "Property_Information_Number_Of_Parking",
+    "zoho_label": "# of Parking",
+    "property_types": [
+      "land"
+    ],
+    "section": "Property Information"
+  },
+  {
+    "parameter_name": "Property_Information_No_Of_Bedrooms",
+    "zoho_label": "Number of Bedroom",
+    "property_types": [
+      "residential"
+    ],
+    "section": "Property Information"
+  },
+  {
+    "parameter_name": "Property_Information_No_Of_Full_Baths",
+    "zoho_label": "Number of Full Baths",
+    "property_types": [
+      "residential"
+    ],
+    "section": "Property Information"
+  },
+  {
+    "parameter_name": "Property_Information_No_Of_Half_Baths",
+    "zoho_label": "Number of Half Baths",
+    "property_types": [
+      "residential"
+    ],
+    "section": "Property Information"
+  },
+  {
+    "parameter_name": "Property_Information_Basement",
+    "zoho_label": "Basement",
+    "property_types": [
+      "residential",
+      "multi_family"
+    ],
+    "section": "Property Information"
+  },
+  {
+    "parameter_name": "Property_Information_Type_Style",
+    "zoho_label": "Type/Style",
+    "property_types": [
+      "residential",
+      "multi_family"
+    ],
+    "section": "Property Information"
+  },
+  {
+    "parameter_name": "Property_Information_Levels",
+    "zoho_label": "Levels",
+    "property_types": [
+      "residential",
+      "multi_family"
+    ],
+    "section": "Property Information"
+  },
+  {
+    "parameter_name": "Property_Information_Basement_Description",
+    "zoho_label": "Basement Description",
+    "property_types": [
+      "residential",
+      "multi_family"
+    ],
+    "section": "Property Information"
+  },
+  {
+    "parameter_name": "Property_Information_Garage_Carport_YN",
+    "zoho_label": "Garage/Carport Y/N",
+    "property_types": [
+      "residential",
+      "multi_family"
+    ],
+    "section": "Property Information"
+  },
+  {
+    "parameter_name": "Property_Information_Garage_Carport_Capacity",
+    "zoho_label": "Garage/Carport Capacity",
+    "property_types": [
+      "residential",
+      "multi_family"
+    ],
+    "section": "Property Information"
+  },
+  {
+    "parameter_name": "Property_Information_Garage_Carport_Location",
+    "zoho_label": "Garage/Carport Location",
+    "property_types": [
+      "residential",
+      "multi_family"
+    ],
+    "section": "Property Information"
+  },
+  {
+    "parameter_name": "Property_Information_Garage_Carport_Type",
+    "zoho_label": "Garage/Carport Type",
+    "property_types": [
+      "residential",
+      "multi_family"
+    ],
+    "section": "Property Information"
+  },
+  {
+    "parameter_name": "Property_Information_Parking",
+    "zoho_label": "Parking",
+    "property_types": [
+      "multi_family"
+    ],
+    "section": "Property Information"
+  },
+  {
+    "parameter_name": "Property_Information_Driveway",
+    "zoho_label": "Driveway",
+    "property_types": [
+      "residential",
+      "multi_family"
+    ],
+    "section": "Property Information"
+  },
+  {
+    "parameter_name": "Property_Information_Amenities",
+    "zoho_label": "Amenities",
+    "property_types": [
+      "residential",
+      "multi_family"
+    ],
+    "section": "Property Information"
+  },
+  {
+    "parameter_name": "Property_Information_Flood_Zone",
+    "zoho_label": "Flood Zone",
+    "property_types": [
+      "residential",
+      "multi_family",
+      "land"
+    ],
+    "section": "Property Information"
+  },
+  {
+    "parameter_name": "Property_Information_Flood_Insurance_Required",
+    "zoho_label": "Flood Insurance Required",
+    "property_types": [
+      "residential",
+      "multi_family",
+      "land"
+    ],
+    "section": "Property Information"
+  },
+  {
+    "parameter_name": "Property_Information_Frontage",
+    "zoho_label": "Frontage",
+    "property_types": [
+      "multi_family",
+      "land"
+    ],
+    "section": "Property Information"
+  },
+  {
+    "parameter_name": "Property_Information_Mobile_Home_Allowed",
+    "zoho_label": "Mobile Home Allowed",
+    "property_types": [
+      "land"
+    ],
+    "section": "Property Information"
+  },
+  {
+    "parameter_name": "Property_Information_Electric",
+    "zoho_label": "Electric",
+    "property_types": [
+      "land"
+    ],
+    "section": "Property Information"
+  },
+  {
+    "parameter_name": "Property_Information_Gas",
+    "zoho_label": "Gas",
+    "property_types": [
+      "land"
+    ],
+    "section": "Property Information"
+  },
+  {
+    "parameter_name": "Property_Information_Water_Sewer",
+    "zoho_label": "Water/Sewer",
+    "property_types": [
+      "land"
+    ],
+    "section": "Property Information"
+  },
+  {
+    "parameter_name": "Property_Information_Topography",
+    "zoho_label": "Topography",
+    "property_types": [
+      "land"
+    ],
+    "section": "Property Information"
+  },
+  {
+    "parameter_name": "Property_Information_In_City_Limit_YN",
+    "zoho_label": "In City Limit",
+    "property_types": [
+      "residential",
+      "multi_family",
+      "land"
+    ],
+    "section": "Property Information"
+  },
+  {
+    "parameter_name": "Income_Expenses_Annual_Gross_Income",
+    "zoho_label": "Annual Gross Income",
+    "property_types": [
+      "multi_family"
+    ],
+    "section": "Income/Expenses"
+  },
+  {
+    "parameter_name": "Income_Expenses_Net_Operating_Income",
+    "zoho_label": "Net Operating Income",
+    "property_types": [
+      "multi_family"
+    ],
+    "section": "Income/Expenses"
+  },
+  {
+    "parameter_name": "Income_Expenses_Potential_Gross_Income",
+    "zoho_label": "Potential Gross Income",
+    "property_types": [
+      "multi_family"
+    ],
+    "section": "Income/Expenses"
+  },
+  {
+    "parameter_name": "Units_Information_Number_of_Units",
+    "zoho_label": "Number of Units",
+    "property_types": [
+      "multi_family"
+    ],
+    "section": "Units Information"
+  },
+  {
+    "parameter_name": "Units_Information_Unit_1_Type",
+    "zoho_label": "Unit 1 - Type",
+    "property_types": [
+      "multi_family"
+    ],
+    "section": "Units Information"
+  },
+  {
+    "parameter_name": "Units_Information_Unit_1_Square_Feet",
+    "zoho_label": "Unit 1 - Square Feet",
+    "property_types": [
+      "multi_family"
+    ],
+    "section": "Units Information"
+  },
+  {
+    "parameter_name": "Units_Information_Unit_1_Full_Bathrooms",
+    "zoho_label": "Unit 1 - Full Bathrooms",
+    "property_types": [
+      "multi_family"
+    ],
+    "section": "Units Information"
+  },
+  {
+    "parameter_name": "Units_Information_Unit_1_Half_Bathrooms",
+    "zoho_label": "Unit 1 - Half Bathrooms",
+    "property_types": [
+      "multi_family"
+    ],
+    "section": "Units Information"
+  },
+  {
+    "parameter_name": "Units_Information_Unit_1_Rent",
+    "zoho_label": "Unit 1 Rent",
+    "property_types": [
+      "multi_family"
+    ],
+    "section": "Units Information"
+  },
+  {
+    "parameter_name": "Units_Information_Unit_1_Includes",
+    "zoho_label": "Unit 1 - Includes",
+    "property_types": [
+      "multi_family"
+    ],
+    "section": "Units Information"
+  },
+  {
+    "parameter_name": "Units_Information_Unit_1_Tenant_Pays",
+    "zoho_label": "Unit 1 - Tenant Pays",
+    "property_types": [
+      "multi_family"
+    ],
+    "section": "Units Information"
+  },
+  {
+    "parameter_name": "Units_Information_Unit_2_Type",
+    "zoho_label": "Unit 2 - Type",
+    "property_types": [
+      "multi_family"
+    ],
+    "section": "Units Information"
+  },
+  {
+    "parameter_name": "Units_Information_Unit_2_Square_Feet",
+    "zoho_label": "Unit 2 - Square Feet",
+    "property_types": [
+      "multi_family"
+    ],
+    "section": "Units Information"
+  },
+  {
+    "parameter_name": "Units_Information_Unit_2_Full_Bathrooms",
+    "zoho_label": "Unit 2 - Full Bathrooms",
+    "property_types": [
+      "multi_family"
+    ],
+    "section": "Units Information"
+  },
+  {
+    "parameter_name": "Units_Information_Unit_2_Half_Bathrooms",
+    "zoho_label": "Unit 2 - Half Bathrooms",
+    "property_types": [
+      "multi_family"
+    ],
+    "section": "Units Information"
+  },
+  {
+    "parameter_name": "Units_Information_Unit_2_Rent",
+    "zoho_label": "Unit 2 Rent",
+    "property_types": [
+      "multi_family"
+    ],
+    "section": "Units Information"
+  },
+  {
+    "parameter_name": "Units_Information_Unit_2_Includes",
+    "zoho_label": "Unit 2 - Includes",
+    "property_types": [
+      "multi_family"
+    ],
+    "section": "Units Information"
+  },
+  {
+    "parameter_name": "Units_Information_Unit_2_Tenant_Pays",
+    "zoho_label": "Unit 2 - Tenant Pays",
+    "property_types": [
+      "multi_family"
+    ],
+    "section": "Units Information"
+  },
+  {
+    "parameter_name": "Units_Information_Unit_3_Type",
+    "zoho_label": "Unit 3 - Type",
+    "property_types": [
+      "multi_family"
+    ],
+    "section": "Units Information"
+  },
+  {
+    "parameter_name": "Units_Information_Unit_3_Square_Feet",
+    "zoho_label": "Unit 3 - Square Feet",
+    "property_types": [
+      "multi_family"
+    ],
+    "section": "Units Information"
+  },
+  {
+    "parameter_name": "Units_Information_Unit_3_Full_Bathrooms",
+    "zoho_label": "Unit 3 - Full Bathrooms",
+    "property_types": [
+      "multi_family"
+    ],
+    "section": "Units Information"
+  },
+  {
+    "parameter_name": "Units_Information_Unit_3_Half_Bathrooms",
+    "zoho_label": "Unit 3 - Half Bathrooms",
+    "property_types": [
+      "multi_family"
+    ],
+    "section": "Units Information"
+  },
+  {
+    "parameter_name": "Units_Information_Unit_3_Rent",
+    "zoho_label": "Unit 3 Rent",
+    "property_types": [
+      "multi_family"
+    ],
+    "section": "Units Information"
+  },
+  {
+    "parameter_name": "Units_Information_Unit_3_Includes",
+    "zoho_label": "Unit 3 - Includes",
+    "property_types": [
+      "multi_family"
+    ],
+    "section": "Units Information"
+  },
+  {
+    "parameter_name": "Units_Information_Unit_3_Tenant_Pays",
+    "zoho_label": "Unit 3 - Tenant Pays",
+    "property_types": [
+      "multi_family"
+    ],
+    "section": "Units Information"
+  },
+  {
+    "parameter_name": "Units_Information_Unit_4_Type",
+    "zoho_label": "Unit 4 - Type",
+    "property_types": [
+      "multi_family"
+    ],
+    "section": "Units Information"
+  },
+  {
+    "parameter_name": "Units_Information_Unit_4_Square_Feet",
+    "zoho_label": "Unit 4 - Square Feet",
+    "property_types": [
+      "multi_family"
+    ],
+    "section": "Units Information"
+  },
+  {
+    "parameter_name": "Units_Information_Unit_4_Full_Bathrooms",
+    "zoho_label": "Unit 4 - Full Bathrooms",
+    "property_types": [
+      "multi_family"
+    ],
+    "section": "Units Information"
+  },
+  {
+    "parameter_name": "Units_Information_Unit_4_Half_Bathrooms",
+    "zoho_label": "Unit 4 - Half Bathrooms",
+    "property_types": [
+      "multi_family"
+    ],
+    "section": "Units Information"
+  },
+  {
+    "parameter_name": "Units_Information_Unit_4_Rent",
+    "zoho_label": "Unit 4 Rent",
+    "property_types": [
+      "multi_family"
+    ],
+    "section": "Units Information"
+  },
+  {
+    "parameter_name": "Units_Information_Unit_4_Includes",
+    "zoho_label": "Unit 4 - Includes",
+    "property_types": [
+      "multi_family"
+    ],
+    "section": "Units Information"
+  },
+  {
+    "parameter_name": "Units_Information_Unit_4_Tenant_Pays",
+    "zoho_label": "Unit 4 - Tenant Pays",
+    "property_types": [
+      "multi_family"
+    ],
+    "section": "Units Information"
+  },
+  {
+    "parameter_name": "Units_Information_Unit_5_Type",
+    "zoho_label": "Unit 5 Type",
+    "property_types": [
+      "multi_family"
+    ],
+    "section": "Units Information"
+  },
+  {
+    "parameter_name": "Units_Information_Unit_5_Square_Feet",
+    "zoho_label": "Unit 5 Square Feet",
+    "property_types": [
+      "multi_family"
+    ],
+    "section": "Units Information"
+  },
+  {
+    "parameter_name": "Units_Information_Unit_5_Full_Bathrooms",
+    "zoho_label": "Unit 5 Full Bathrooms",
+    "property_types": [
+      "multi_family"
+    ],
+    "section": "Units Information"
+  },
+  {
+    "parameter_name": "Units_Information_Unit_5_Half_Bathrooms",
+    "zoho_label": "Unit 5 Half Bathrooms",
+    "property_types": [
+      "multi_family"
+    ],
+    "section": "Units Information"
+  },
+  {
+    "parameter_name": "Units_Information_Unit_5_Rent",
+    "zoho_label": "Unit 5 Rent",
+    "property_types": [
+      "multi_family"
+    ],
+    "section": "Units Information"
+  },
+  {
+    "parameter_name": "Units_Information_Unit_5_Includes",
+    "zoho_label": "Unit 5 Includes",
+    "property_types": [
+      "multi_family"
+    ],
+    "section": "Units Information"
+  },
+  {
+    "parameter_name": "Units_Information_Unit_5_Tenant_Pays",
+    "zoho_label": "Unit 5 Tenant Pays",
+    "property_types": [
+      "multi_family"
+    ],
+    "section": "Units Information"
+  },
+  {
+    "parameter_name": "Rooms_Information_Family_Room",
+    "zoho_label": "Family Room",
+    "property_types": [
+      "residential"
+    ],
+    "section": "Rooms Information"
+  },
+  {
+    "parameter_name": "Rooms_Information_Family_Room_Dimensions",
+    "zoho_label": "Family Room Dimensions",
+    "property_types": [
+      "residential"
+    ],
+    "section": "Rooms Information"
+  },
+  {
+    "parameter_name": "Rooms_Information_Family_Room_Level",
+    "zoho_label": "Family Room Level",
+    "property_types": [
+      "residential"
+    ],
+    "section": "Rooms Information"
+  },
+  {
+    "parameter_name": "Rooms_Information_Kitchen",
+    "zoho_label": "Kitchen",
+    "property_types": [
+      "residential"
+    ],
+    "section": "Rooms Information"
+  },
+  {
+    "parameter_name": "Rooms_Information_Kitchen_Dimensions",
+    "zoho_label": "Kitchen Dimensions",
+    "property_types": [
+      "residential"
+    ],
+    "section": "Rooms Information"
+  },
+  {
+    "parameter_name": "Rooms_Information_Kitchen_Level",
+    "zoho_label": "Kitchen Level",
+    "property_types": [
+      "residential"
+    ],
+    "section": "Rooms Information"
+  },
+  {
+    "parameter_name": "Rooms_Information_Living_Room",
+    "zoho_label": "Living Room",
+    "property_types": [
+      "residential"
+    ],
+    "section": "Rooms Information"
+  },
+  {
+    "parameter_name": "Rooms_Information_Living_Room_Dimensions",
+    "zoho_label": "Living Room Dimensions",
+    "property_types": [
+      "residential"
+    ],
+    "section": "Rooms Information"
+  },
+  {
+    "parameter_name": "Rooms_Information_Living_Room_Level",
+    "zoho_label": "Living Room Level",
+    "property_types": [
+      "residential"
+    ],
+    "section": "Rooms Information"
+  },
+  {
+    "parameter_name": "Rooms_Information_Master_Bedroom",
+    "zoho_label": "Master Bedroom",
+    "property_types": [
+      "residential"
+    ],
+    "section": "Rooms Information"
+  },
+  {
+    "parameter_name": "Rooms_Information_Master_Bedroom_Dimensions",
+    "zoho_label": "Master Bedroom Dimensions",
+    "property_types": [
+      "residential"
+    ],
+    "section": "Rooms Information"
+  },
+  {
+    "parameter_name": "Rooms_Information_Master_Bedroom_Level",
+    "zoho_label": "Master Bedroom Level",
+    "property_types": [
+      "residential"
+    ],
+    "section": "Rooms Information"
+  },
+  {
+    "parameter_name": "Rooms_Information_Master_Bath",
+    "zoho_label": "Master Bathroom",
+    "property_types": [
+      "residential"
+    ],
+    "section": "Rooms Information"
+  },
+  {
+    "parameter_name": "Rooms_Information_Master_Bath_Dimensions",
+    "zoho_label": "Master Bathroom Dimensions",
+    "property_types": [
+      "residential"
+    ],
+    "section": "Rooms Information"
+  },
+  {
+    "parameter_name": "Rooms_Information_Master_Bath_Level",
+    "zoho_label": "Master Bathroom Level",
+    "property_types": [
+      "residential"
+    ],
+    "section": "Rooms Information"
+  },
+  {
+    "parameter_name": "Rooms_Information_Other_Room_1",
+    "zoho_label": "Other Room 1",
+    "property_types": [
+      "residential"
+    ],
+    "section": "Rooms Information"
+  },
+  {
+    "parameter_name": "Rooms_Information_Other_Room_1_Name",
+    "zoho_label": "Other Room 1 - Name",
+    "property_types": [
+      "residential"
+    ],
+    "section": "Rooms Information"
+  },
+  {
+    "parameter_name": "Rooms_Information_Other_Room_1_Dimensions",
+    "zoho_label": "Other Room 1 - Dimensions",
+    "property_types": [
+      "residential"
+    ],
+    "section": "Rooms Information"
+  },
+  {
+    "parameter_name": "Rooms_Information_Other_Room_1_Level",
+    "zoho_label": "Other Room 1 - Level",
+    "property_types": [
+      "residential"
+    ],
+    "section": "Rooms Information"
+  },
+  {
+    "parameter_name": "Rooms_Information_Other_Room_2",
+    "zoho_label": "Other Room 2",
+    "property_types": [
+      "residential"
+    ],
+    "section": "Rooms Information"
+  },
+  {
+    "parameter_name": "Rooms_Information_Other_Room_2_Name",
+    "zoho_label": "Other Room 2 - Name",
+    "property_types": [
+      "residential"
+    ],
+    "section": "Rooms Information"
+  },
+  {
+    "parameter_name": "Rooms_Information_Other_Room_2_Dimensions",
+    "zoho_label": "Other Room 2 - Dimensions",
+    "property_types": [
+      "residential"
+    ],
+    "section": "Rooms Information"
+  },
+  {
+    "parameter_name": "Rooms_Information_Other_Room_2_Level",
+    "zoho_label": "Other Room 2 - Level",
+    "property_types": [
+      "residential"
+    ],
+    "section": "Rooms Information"
+  },
+  {
+    "parameter_name": "Rooms_Information_Other_Room_3",
+    "zoho_label": "Other Room 3",
+    "property_types": [
+      "residential"
+    ],
+    "section": "Rooms Information"
+  },
+  {
+    "parameter_name": "Rooms_Information_Other_Room_3_Name",
+    "zoho_label": "Other Room 3 - Name",
+    "property_types": [
+      "residential"
+    ],
+    "section": "Rooms Information"
+  },
+  {
+    "parameter_name": "Rooms_Information_Other_Room_3_Dimensions",
+    "zoho_label": "Other Room 3 - Dimensions",
+    "property_types": [
+      "residential"
+    ],
+    "section": "Rooms Information"
+  },
+  {
+    "parameter_name": "Rooms_Information_Other_Room_3_Level",
+    "zoho_label": "Other Room 3 - Level",
+    "property_types": [
+      "residential"
+    ],
+    "section": "Rooms Information"
+  },
+  {
+    "parameter_name": "Rooms_Information_Other_Room_4",
+    "zoho_label": "Other Room 4",
+    "property_types": [
+      "residential"
+    ],
+    "section": "Rooms Information"
+  },
+  {
+    "parameter_name": "Rooms_Information_Other_Room_4_Name",
+    "zoho_label": "Other Room 4 - Name",
+    "property_types": [
+      "residential"
+    ],
+    "section": "Rooms Information"
+  },
+  {
+    "parameter_name": "Rooms_Information_Other_Room_4_Dimensions",
+    "zoho_label": "Other Room 4 - Dimensions",
+    "property_types": [
+      "residential"
+    ],
+    "section": "Rooms Information"
+  },
+  {
+    "parameter_name": "Rooms_Information_Other_Room_4_Level",
+    "zoho_label": "Other Room 4 - Level",
+    "property_types": [
+      "residential"
+    ],
+    "section": "Rooms Information"
+  },
+  {
+    "parameter_name": "Interior_Information_Appliances",
+    "zoho_label": "Appliances",
+    "property_types": [
+      "residential",
+      "multi_family"
+    ],
+    "section": "Interior Information"
+  },
+  {
+    "parameter_name": "Interior_Information_Floor_Covering",
+    "zoho_label": "Floor Covering",
+    "property_types": [
+      "residential",
+      "multi_family"
+    ],
+    "section": "Interior Information"
+  },
+  {
+    "parameter_name": "Interior_Information_Foundation",
+    "zoho_label": "Foundation",
+    "property_types": [
+      "residential",
+      "multi_family"
+    ],
+    "section": "Interior Information"
+  },
+  {
+    "parameter_name": "Interior_Information_Equipment",
+    "zoho_label": "Equipment",
+    "property_types": [
+      "residential",
+      "multi_family"
+    ],
+    "section": "Interior Information"
+  },
+  {
+    "parameter_name": "Interior_Information_Fireplace",
+    "zoho_label": "Fireplace",
+    "property_types": [
+      "residential",
+      "multi_family"
+    ],
+    "section": "Interior Information"
+  },
+  {
+    "parameter_name": "Interior_Information_Number_Of_Fireplaces",
+    "zoho_label": "Number of Fireplaces",
+    "property_types": [
+      "residential",
+      "multi_family"
+    ],
+    "section": "Interior Information"
+  },
+  {
+    "parameter_name": "Interior_Information_Fireplace_Description",
+    "zoho_label": "Fireplace Description",
+    "property_types": [
+      "residential",
+      "multi_family"
+    ],
+    "section": "Interior Information"
+  },
+  {
+    "parameter_name": "Interior_Information_Fireplace_Level",
+    "zoho_label": "Fireplace Level",
+    "property_types": [
+      "multi_family"
+    ],
+    "section": "Interior Information"
+  },
+  {
+    "parameter_name": "Interior_Information_Heat_Systems",
+    "zoho_label": "Heat Systems",
+    "property_types": [
+      "residential",
+      "multi_family"
+    ],
+    "section": "Interior Information"
+  },
+  {
+    "parameter_name": "Interior_Information_Number_Of_Heat_Systems",
+    "zoho_label": "Number Of Heat Systems",
+    "property_types": [
+      "residential",
+      "multi_family"
+    ],
+    "section": "Interior Information"
+  },
+  {
+    "parameter_name": "Interior_Information_Heating_Systems",
+    "zoho_label": "Heating Systems",
+    "property_types": [
+      "residential",
+      "multi_family"
+    ],
+    "section": "Interior Information"
+  },
+  {
+    "parameter_name": "Interior_Information_Utilities",
+    "zoho_label": "Utilities",
+    "property_types": [
+      "residential",
+      "multi_family"
+    ],
+    "section": "Interior Information"
+  },
+  {
+    "parameter_name": "Interior_Information_Air_Condition",
+    "zoho_label": "Air Condition",
+    "property_types": [
+      "residential",
+      "multi_family"
+    ],
+    "section": "Interior Information"
+  },
+  {
+    "parameter_name": "Interior_Information_Number_Of_Air_Conditioner",
+    "zoho_label": "Number of Air/Conditioner",
+    "property_types": [
+      "residential",
+      "multi_family"
+    ],
+    "section": "Interior Information"
+  },
+  {
+    "parameter_name": "Interior_Information_Air_Condition_Description",
+    "zoho_label": "Air Condition Description",
+    "property_types": [
+      "residential",
+      "multi_family"
+    ],
+    "section": "Interior Information"
+  },
+  {
+    "parameter_name": "Interior_Information_Water_Heater",
+    "zoho_label": "Water Heater",
+    "property_types": [
+      "residential",
+      "multi_family"
+    ],
+    "section": "Interior Information"
+  },
+  {
+    "parameter_name": "Interior_Information_Number_Of_Water_Heaters",
+    "zoho_label": "Number of Water Heaters",
+    "property_types": [
+      "residential",
+      "multi_family"
+    ],
+    "section": "Interior Information"
+  },
+  {
+    "parameter_name": "Interior_Information_Water_Heater_Description",
+    "zoho_label": "Water Heater Description",
+    "property_types": [
+      "residential",
+      "multi_family"
+    ],
+    "section": "Interior Information"
+  },
+  {
+    "parameter_name": "Interior_Information_Disabled_Access_YN",
+    "zoho_label": "Disabled Access",
+    "property_types": [
+      "residential",
+      "multi_family"
+    ],
+    "section": "Interior Information"
+  },
+  {
+    "parameter_name": "Interior_Information_Handicap_Amenities",
+    "zoho_label": "Handicap Amenities",
+    "property_types": [
+      "residential",
+      "multi_family"
+    ],
+    "section": "Interior Information"
+  },
+  {
+    "parameter_name": "Interior_Information_Surveillance",
+    "zoho_label": "Surveillance",
+    "property_types": [
+      "residential",
+      "multi_family",
+      "land"
+    ],
+    "section": "Interior Information"
+  },
+  {
+    "parameter_name": "Interior_Information_Security_System",
+    "zoho_label": "Security System",
+    "property_types": [
+      "residential",
+      "multi_family"
+    ],
+    "section": "Interior Information"
+  },
+  {
+    "parameter_name": "Exterior_Information_Exterior",
+    "zoho_label": "Exterior",
+    "property_types": [
+      "residential",
+      "multi_family"
+    ],
+    "section": "Exterior Information"
+  },
+  {
+    "parameter_name": "Exterior_Information_Lot_Description",
+    "zoho_label": "Lot Description",
+    "property_types": [
+      "residential",
+      "multi_family",
+      "land"
+    ],
+    "section": "Exterior Information"
+  },
+  {
+    "parameter_name": "Exterior_Information_Lot_Location",
+    "zoho_label": "Lot Location",
+    "property_types": [
+      "residential",
+      "multi_family"
+    ],
+    "section": "Exterior Information"
+  },
+  {
+    "parameter_name": "Exterior_Information_Fencing",
+    "zoho_label": "Fencing",
+    "property_types": [
+      "residential",
+      "multi_family",
+      "land"
+    ],
+    "section": "Exterior Information"
+  },
+  {
+    "parameter_name": "Exterior_Information_Roof",
+    "zoho_label": "Roof",
+    "property_types": [
+      "residential",
+      "multi_family"
+    ],
+    "section": "Exterior Information"
+  },
+  {
+    "parameter_name": "Exterior_Information_Water_Lake_Property",
+    "zoho_label": "Water/Lake Property",
+    "property_types": [
+      "residential",
+      "multi_family",
+      "land"
+    ],
+    "section": "Exterior Information"
+  },
+  {
+    "parameter_name": "Exterior_Information_Lake",
+    "zoho_label": "Lake",
+    "property_types": [
+      "residential",
+      "multi_family",
+      "land"
+    ],
+    "section": "Exterior Information"
+  },
+  {
+    "parameter_name": "Exterior_Information_No_Of_Patio_Decks",
+    "zoho_label": "Number of Patio/Decks",
+    "property_types": [
+      "residential"
+    ],
+    "section": "Exterior Information"
+  },
+  {
+    "parameter_name": "Exterior_Information_Patio",
+    "zoho_label": "Patio",
+    "property_types": [
+      "residential",
+      "multi_family"
+    ],
+    "section": "Exterior Information"
+  },
+  {
+    "parameter_name": "Exterior_Information_Detached_Building",
+    "zoho_label": "Detached Building",
+    "property_types": [
+      "residential"
+    ],
+    "section": "Exterior Information"
+  },
+  {
+    "parameter_name": "Exterior_Information_Pool_YN",
+    "zoho_label": "Pool",
+    "property_types": [
+      "residential"
+    ],
+    "section": "Exterior Information"
+  },
+  {
+    "parameter_name": "Exterior_Information_Pool_Type",
+    "zoho_label": "Pool Type",
+    "property_types": [
+      "residential"
+    ],
+    "section": "Exterior Information"
+  },
+  {
+    "parameter_name": "Community_Information_School_District",
+    "zoho_label": "School District",
+    "property_types": [
+      "residential",
+      "multi_family",
+      "land"
+    ],
+    "section": "Community Information"
+  },
+  {
+    "parameter_name": "Community_Information_Aso_Condo_Fee_YN",
+    "zoho_label": "Association/Condo Fee Y/N",
+    "property_types": [
+      "residential",
+      "multi_family"
+    ],
+    "section": "Community Information"
+  },
+  {
+    "parameter_name": "Community_Information_Aso_POA_Fee_Dues",
+    "zoho_label": "Association Fee Dues",
+    "property_types": [
+      "residential",
+      "multi_family",
+      "land"
+    ],
+    "section": "Community Information"
+  },
+  {
+    "parameter_name": "Community_Information_Aso_POA_Paid_Frequency",
+    "zoho_label": "Association Paid Frequency",
+    "property_types": [
+      "residential",
+      "multi_family",
+      "land"
+    ],
+    "section": "Community Information"
+  },
+  {
+    "parameter_name": "Community_Information_Asso_POA_Fee_Includes",
+    "zoho_label": "Association Power Of Attorney Fee Includes",
+    "property_types": [
+      "residential",
+      "multi_family",
+      "land"
+    ],
+    "section": "Community Information"
+  },
+  {
+    "parameter_name": "Interior_Information_Washer",
+    "zoho_label": "Washer",
+    "property_types": [
+      "multi_family"
+    ],
+    "section": "Interior Information"
+  },
+  {
+    "parameter_name": "Interior_Information_Dryer",
+    "zoho_label": "Dryer",
+    "property_types": [
+      "multi_family"
+    ],
+    "section": "Interior Information"
+  },
+  {
+    "parameter_name": "Community_Information_Roads",
+    "zoho_label": "Roads",
+    "property_types": [
+      "residential",
+      "multi_family",
+      "land"
+    ],
+    "section": "Community Information"
+  },
+  {
+    "parameter_name": "Community_Information_Community_Amenities",
+    "zoho_label": "Community Amenities",
+    "property_types": [
+      "residential",
+      "multi_family"
+    ],
+    "section": "Community Information"
+  },
+  {
+    "parameter_name": "Remarks_Information_Directions",
+    "zoho_label": "Directions",
+    "property_types": [
+      "residential",
+      "multi_family",
+      "land"
+    ],
+    "section": "Remarks Information"
+  },
+  {
+    "parameter_name": "Remarks_Information_Public_Remarks",
+    "zoho_label": "Public Remarks",
+    "property_types": [
+      "residential",
+      "multi_family",
+      "land"
+    ],
+    "section": "Remarks Information"
+  },
+  {
+    "parameter_name": "task_id",
+    "zoho_label": "task_id",
+    "property_types": [
+      "residential",
+      "multi_family",
+      "land"
+    ],
+    "section": "Standard"
+  },
+  {
+    "parameter_name": "FormID",
+    "zoho_label": "Unique ID",
+    "property_types": [
+      "residential",
+      "multi_family",
+      "land"
+    ],
+    "section": "Standard"
+  },
+  {
+    "parameter_name": "UniqueID",
+    "zoho_label": "Unique ID",
+    "property_types": [
+      "residential",
+      "multi_family",
+      "land"
+    ],
+    "section": "Standard"
+  },
+  {
+    "parameter_name": "Date_Created",
+    "zoho_label": "Date-Time",
+    "property_types": [
+      "residential",
+      "multi_family",
+      "land"
+    ],
+    "section": "Standard"
+  },
+  {
+    "parameter_name": "env",
+    "zoho_label": "env",
+    "property_types": [
+      "residential",
+      "multi_family",
+      "land"
+    ],
+    "section": "Standard"
+  },
+  {
+    "parameter_name": "added_time",
+    "zoho_label": "Added Time",
+    "property_types": [
+      "residential",
+      "multi_family",
+      "land"
+    ],
+    "section": "Standard"
+  },
+  {
+    "parameter_name": "ip_address",
+    "zoho_label": "IP Address",
+    "property_types": [
+      "residential",
+      "multi_family",
+      "land"
+    ],
+    "section": "Standard"
+  },
+  {
+    "parameter_name": "house_id",
+    "zoho_label": "house_id",
+    "property_types": [
+      "residential",
+      "multi_family",
+      "land"
+    ],
+    "section": "Standard"
+  },
+  {
+    "parameter_name": "live_key",
+    "zoho_label": "live_key",
+    "property_types": [
+      "residential",
+      "multi_family",
+      "land"
+    ],
+    "section": "Standard"
+  }
+]
